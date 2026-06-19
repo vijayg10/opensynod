@@ -1,0 +1,15 @@
+# Local development overrides
+# These settings are merged with docker-compose.yml automatically
+
+version: "3.9"
+
+services:
+  api:
+    environment:
+      ENVIRONMENT: development
+      LOG_LEVEL: DEBUG
+
+  worker:
+    environment:
+      ENVIRONMENT: development
+      LOG_LEVEL: DEBUG

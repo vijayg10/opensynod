@@ -18,4 +18,4 @@ actions:
 footer: Apache 2.0 Licensed | OpenSynod — Open Source Multi-LLM Debate Platform
 ---
 
-<VideoPlayer src="/videos/demo1.mp4" :autoplay="true" :muted="true" :loop="true" style="border-radius: 10px; box-shadow: 0 4px 32px rgba(0,0,0,0.15); margin: 1rem 0;" />
+<VideoPlayer src="/videos/demo1.mp4" poster="/videos/demo1-poster.png" :autoplay="true" :muted="true" :loop="true" style="border-radius: 10px; box-shadow: 0 4px 32px rgba(0,0,0,0.15); margin: 1rem 0;" />

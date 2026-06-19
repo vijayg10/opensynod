@@ -2,6 +2,8 @@
   <img src="assets/images/opensynod_hlogo.png" alt="OpenSynod" width="360" />
 </p>
 
+**📖 [Documentation](https://vijayg10.github.io/opensynod/)**
+
 
 ## What is OpenSynod?
 

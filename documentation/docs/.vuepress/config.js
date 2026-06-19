@@ -8,6 +8,9 @@ export default defineUserConfig({
   title: 'OpenSynod',
   description: 'Where LLMs Debate. Consensus Redefined.',
 
+  // Served from https://vijayg10.github.io/opensynod/ on GitHub Pages
+  base: '/opensynod/',
+
   theme: defaultTheme({
     logo: '/images/opensynod_hlogo.png',
 
